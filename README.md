@@ -1,1 +1,1 @@
-# popular-news-React-Redux-TS
+# popular-news-React-Redux
